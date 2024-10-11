@@ -1,4 +1,4 @@
-package org.example.challenges;
+package org.example.challenges.BinaryTree;
 
 /*
 link: https://leetcode.com/problems/search-in-a-binary-search-tree/description/
